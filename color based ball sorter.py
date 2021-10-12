@@ -1,6 +1,6 @@
 #This program will detect two colors B and R
 #and will print that it got detected
-#area is speciied for each color balls/objects.
+#area is specified for each color balls/objects.
 
 
 
