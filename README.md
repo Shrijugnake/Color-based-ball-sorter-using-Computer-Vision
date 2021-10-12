@@ -1,3 +1,9 @@
-There are two files one for Arduino Microcontroller and second one includes python program for image processing.
-Before running python code connect an arduino to your laptop.
-Upload oneservo.ino to microcontroller.
+There are two files: 1.oneservo.ino
+                     2.color_based_ball_sorter.py
+                     
+                     
+oneservo.ino:upload this code to your Arduino Microcontroller 
+color_based_ball_sorter.py: This python code includes image processing.
+
+Microcontroller should be connected to your laptop for real time image processing
+
